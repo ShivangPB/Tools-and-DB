@@ -11,5 +11,5 @@ Scientific tools
 
 ### AMR and antibiotic use databases: 
 1) Human antibiotic consumtion in Europe: https://www.ecdc.europa.eu/en/about-us/partnerships-and-networks/disease-and-laboratory-networks/esac-net
-2) 
+2) EUP OHAMR: https://www.jpiamr.eu/activities/one-health-amr/
 
