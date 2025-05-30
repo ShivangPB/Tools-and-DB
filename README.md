@@ -7,6 +7,7 @@ Scientific tools
 3) Bioicons: https://bioicons.com/
 4) Scidraw: https://scidraw.io/
 5) Open science art: https://openscienceart.com/
+6) MIRO flowchart online: https://miro.com/aq/ps/flowchart-1/
 
 
 ### AMR and antibiotic use databases: 
